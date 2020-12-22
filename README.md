@@ -1,0 +1,2 @@
+# Optimized-Warehouse-Management-of-Perishable-Goods
+Freshness of products and timeliness of delivery are two critical factors which have impact on customers in terminal delivery of perishable goods. This project investigates how to make a favourable inventory in the warehouse so that there is no wastage and shortage of perishable goods for a food delivery company. Thus, we develop functional machine learning model to forecast the need of goods for the next future time-periods with proper front-end.
