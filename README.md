@@ -41,12 +41,12 @@ Use the SciKit learning (predefined package in python) to import regression mode
 
 7.	Predict the model: Finally, we predict the demand of goods for future time-periods. 
       Modules used in python:
-1.	Pandas
-2.	Numpy
-3.	SciKit
-4.	Matplot
-5.	Pickle
-6.	OS
+    1.Pandas
+    2.Numpy
+    3.SciKit
+    4.Matplot
+    5.Pickle
+    6.OS
    
 Expose this model as a web service with the help of JavaScript.
 Configure the application deployment using the Cloud Foundry Python runtime.
